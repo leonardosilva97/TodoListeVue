@@ -10,7 +10,7 @@ Projeto para desenvolvimento de software, com framework Laravel no backend e Vue
 
 ## Start
 
-os paços para startar o projeto são o seguinte
+os passos para startar o projeto são o seguinte
 
 npm intall(para instalar todas a dependencias do projeto)
 em seguida
