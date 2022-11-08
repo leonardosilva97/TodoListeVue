@@ -12,6 +12,6 @@ Projeto para desenvolvimento de software, com framework Laravel no backend e Vue
 
 os passos para startar o projeto são o seguinte
 
-npm intall(para instalar todas a dependencias do projeto)
-em seguida
+npm install(para instalar todas a dependencias do projeto) <br>
+em seguida <br>
 php artisan serve (para startar o servidor php)
