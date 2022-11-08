@@ -8,9 +8,13 @@
 
 Projeto para desenvolvimento de software, com framework Laravel no backend e Vue js com bootstrap no front end
 
+
 ## Start
 
-os passos para startar o projeto são o seguinte
+foi utilizado wampServer para o projeto, indepedente se estiver usando wamp ou xampp é preciso criar o banco de dados, neste caso, chamado de todolistvue
+em seguida abra o terminal no projeto e digite php artisan migrate <br>
+
+O proximo passo é <br>
 
 npm install(para instalar todas a dependencias do projeto) <br>
 em seguida <br>
